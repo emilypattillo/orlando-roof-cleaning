@@ -33,3 +33,7 @@ CSV source: `/root/.hermes/profiles/wednesday/artifacts/website-landlord/portfol
 
 ## 2026-05-05 homepage parity expansion
 Expanded homepage content to better match the stump grinding site pattern: local conditions, quote prep, conversion structure, internal page links, FAQs, and launch-safe claim policy. Public HTML staging language was cleaned while keeping noindex/robots safeguards.
+
+
+## 2026-05-05 content moat expansion
+Added deeper homepage sections for rental-ready page cluster strategy, post-launch evidence improvements, and backlink/citation evaluation.
