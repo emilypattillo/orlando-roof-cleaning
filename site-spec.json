@@ -1,0 +1,101 @@
+{
+  "rank": 7,
+  "niche": "Roof cleaning / soft wash",
+  "market": "Orlando / Seminole / Lake County, FL",
+  "brand": "Orlando Roof Cleaning",
+  "slug": "orlando-roof-cleaning",
+  "primary_keyword": "roof cleaning Orlando",
+  "pages": [
+    "Home",
+    "Roof Cleaning Orlando",
+    "Soft Wash Roof Cleaning",
+    "Tile Roof Cleaning",
+    "Shingle Roof Cleaning",
+    "HOA Roof Cleaning Notice",
+    "Roof Algae Guide",
+    "Winter Park",
+    "Oviedo",
+    "Lake Mary",
+    "Clermont",
+    "Winter Garden"
+  ],
+  "confidence": "High",
+  "page_records": [
+    {
+      "page": "Home",
+      "file": "index.html",
+      "type": "home"
+    },
+    {
+      "page": "Roof Cleaning Orlando",
+      "file": "roof-cleaning-orlando.html",
+      "type": "content"
+    },
+    {
+      "page": "Soft Wash Roof Cleaning",
+      "file": "soft-wash-roof-cleaning.html",
+      "type": "content"
+    },
+    {
+      "page": "Tile Roof Cleaning",
+      "file": "tile-roof-cleaning.html",
+      "type": "content"
+    },
+    {
+      "page": "Shingle Roof Cleaning",
+      "file": "shingle-roof-cleaning.html",
+      "type": "content"
+    },
+    {
+      "page": "HOA Roof Cleaning Notice",
+      "file": "hoa-roof-cleaning-notice.html",
+      "type": "content"
+    },
+    {
+      "page": "Roof Algae Guide",
+      "file": "roof-algae-guide.html",
+      "type": "content"
+    },
+    {
+      "page": "Winter Park",
+      "file": "winter-park.html",
+      "type": "content"
+    },
+    {
+      "page": "Oviedo",
+      "file": "oviedo.html",
+      "type": "content"
+    },
+    {
+      "page": "Lake Mary",
+      "file": "lake-mary.html",
+      "type": "content"
+    },
+    {
+      "page": "Clermont",
+      "file": "clermont.html",
+      "type": "content"
+    },
+    {
+      "page": "Winter Garden",
+      "file": "winter-garden.html",
+      "type": "content"
+    },
+    {
+      "page": "Contact",
+      "file": "contact.html",
+      "type": "utility"
+    },
+    {
+      "page": "Thank You",
+      "file": "thank-you.html",
+      "type": "utility"
+    }
+  ],
+  "safeguards": [
+    "noindex,nofollow",
+    "robots Disallow /",
+    "no fake claims",
+    "placeholder form requires activation"
+  ]
+}
