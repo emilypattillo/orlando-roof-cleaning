@@ -93,9 +93,11 @@
     }
   ],
   "safeguards": [
-    "noindex,nofollow",
-    "robots Disallow /",
     "no fake claims",
-    "placeholder form requires activation"
-  ]
+    "thank-you noindex",
+    "placeholder form requires FormSubmit activation/lead-routing confirmation"
+  ],
+  "domain": "orlandoflroofcleaning.com",
+  "canonical_base_url": "https://orlandoflroofcleaning.com/",
+  "launch_status": "domain purchased and launch SEO crawl enabled"
 }

@@ -1,3 +1,4 @@
 User-agent: *
-Disallow: /
-Sitemap: https://example.invalid/orlando-roof-cleaning/sitemap.xml
+Allow: /
+
+Sitemap: https://orlandoflroofcleaning.com/sitemap.xml
