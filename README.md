@@ -29,3 +29,7 @@ Non-public local SEO static build for **roof cleaning Orlando** in **Orlando / S
 
 ## Source
 CSV source: `/root/.hermes/profiles/wednesday/artifacts/website-landlord/portfolio-scale-2026-05-05/phase2-ceo-redteam/second-pass-10/second-pass-build-approved-10.csv`
+
+
+## 2026-05-05 homepage parity expansion
+Expanded homepage content to better match the stump grinding site pattern: local conditions, quote prep, conversion structure, internal page links, FAQs, and launch-safe claim policy. Public HTML staging language was cleaned while keeping noindex/robots safeguards.
