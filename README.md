@@ -37,3 +37,7 @@ Expanded homepage content to better match the stump grinding site pattern: local
 
 ## 2026-05-05 content moat expansion
 Added deeper homepage sections for rental-ready page cluster strategy, post-launch evidence improvements, and backlink/citation evaluation.
+
+
+## 2026-05-05 CMO/CTO preview cleanup
+Cleaned homepage from strategy/directive copy into customer-facing operator-style content, reduced page length/boxiness, fixed form textarea placeholder, required key fields, added honeypot/privacy note, removed thank-you from sitemap, and preserved noindex/robots safeguards.
