@@ -6,3 +6,8 @@
 .service-photo img{display:block;width:100%;height:auto;aspect-ratio:16/9;object-fit:cover}
 .service-photo figcaption{padding:10px 14px;color:var(--muted);font-size:.92rem}
 @media(min-width:760px){.photo-grid{grid-template-columns:2fr 1fr 1fr}.photo-grid.two{grid-template-columns:2fr 1fr}.photo-grid figure:first-child{grid-row:span 2}}
+/* Mobile-first conversion CTA */
+.mobile-sticky-cta{position:fixed;left:0;right:0;bottom:0;z-index:30;display:grid;grid-template-columns:1fr 1fr;gap:8px;padding:10px 12px;background:rgba(255,255,255,.96);border-top:1px solid var(--line);box-shadow:0 -10px 30px rgba(0,0,0,.08)}
+.mobile-sticky-cta .btn{min-height:44px;padding:10px 12px;border-radius:12px;font-size:.92rem}
+@media(min-width:760px){.mobile-sticky-cta{display:none}footer{padding-bottom:36px}}
+@media(max-width:759px){footer{padding-bottom:92px}.nav{align-items:flex-start}.cta-row .btn{width:100%}}
