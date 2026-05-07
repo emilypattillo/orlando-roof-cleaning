@@ -1,4 +1,3 @@
 User-agent: *
 Allow: /
-
 Sitemap: https://orlandoflroofcleaning.com/sitemap.xml
