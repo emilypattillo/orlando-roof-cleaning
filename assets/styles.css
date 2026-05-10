@@ -15,3 +15,11 @@
 .quote-card-form{align-self:start}.quote-card-form h2{margin-bottom:8px}.form-intro{margin:0 0 14px;color:var(--muted);font-size:.95rem}.mini-quote{display:grid;gap:10px}.mini-quote label{display:grid;gap:5px;font-weight:800;font-size:.9rem;color:var(--ink)}.mini-quote input,.mini-quote textarea{width:100%;border:1px solid var(--line);border-radius:12px;padding:11px 12px;font:inherit;background:#fff;color:var(--ink)}.mini-quote textarea{resize:vertical;min-height:92px}.mini-quote .btn,.mini-quote button{width:100%;border:0;cursor:pointer;font:inherit}.mini-quote .form-note,.mini-quote .small{margin:0;color:var(--muted);font-size:.82rem;line-height:1.35}.hp-field{display:none!important}
 @media(min-width:900px){.hero-grid{grid-template-columns:minmax(0,1.15fr) minmax(340px,.85fr);align-items:start}.quote-card-form{position:sticky;top:92px}}
 @media(max-width:759px){.hero{padding-top:30px}.quote-card-form{margin-top:6px}.mini-quote input,.mini-quote textarea{min-height:46px}.mini-quote .btn,.mini-quote button{min-height:48px}.hero-grid{gap:18px}}
+
+/* Portfolio image expansion: six-image local-service gallery */
+.image-plan-section .section-kicker{font-weight:700;letter-spacing:.08em;text-transform:uppercase;color:#476174;font-size:.78rem;margin:0 0 .45rem}
+.image-plan-section .gallery-intro{max-width:760px;color:#475569;margin:0 0 1.15rem}
+.image-plan-section .photo-grid{align-items:stretch}
+.image-plan-section .service-photo{background:#fff;border:1px solid rgba(15,23,42,.10);border-radius:18px;overflow:hidden;box-shadow:0 12px 30px rgba(15,23,42,.08)}
+.image-plan-section .service-photo img{display:block;width:100%;aspect-ratio:16/9;height:auto;object-fit:cover;background:#e2e8f0}
+.image-plan-section .service-photo figcaption{font-size:.92rem;line-height:1.35;color:#334155;padding:.8rem .95rem}
