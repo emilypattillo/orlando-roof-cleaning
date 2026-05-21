@@ -1,0 +1,4 @@
+# WL source artifact guard: force-hide files that must never be public
+/.git/* /404.html 404
+/README.md /404.html 404
+/site-spec.json /404.html 404
