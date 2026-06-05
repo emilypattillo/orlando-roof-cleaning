@@ -165,3 +165,9 @@
     object-fit: cover;
   }
 }
+
+/* WL logo header install 2026-06-04 */
+.brand-with-logo{display:flex;align-items:center;gap:12px;min-height:56px}
+.brand-with-logo img{width:56px;height:56px;object-fit:contain;flex:0 0 auto;display:block}
+.brand-with-logo span{line-height:1.05}
+@media(max-width:759px){.brand-with-logo{gap:10px;align-items:center}.brand-with-logo img{width:48px;height:48px}}
