@@ -1,14 +1,29 @@
 <!DOCTYPE html>
-<html lang="en"><head><meta charset="utf-8"/><meta content="index, follow" name="robots"/><title>Not found</title><style id="wl-lighthouse-accessibility-overrides">
+<html lang="en"><head><meta charset="utf-8"/><meta content="width=device-width, initial-scale=1" name="viewport"/><meta content="noindex, follow" name="robots"/><title>Page Not Found | Orlando Roof Cleaning</title><meta content="Page not found." name="description"/><style id="wl-lighthouse-accessibility-overrides">
 /* WL portfolio Lighthouse pass: accessible contrast, focus states, touch targets, and stable media. */
 .muted,.eyebrow,.helper,.form-note,.small,small,.disclosure,.fine-print{color:#334155!important;}
 .navlinks a,.links a:not(.btn),nav a:not(.btn){color:#334155!important;}
-.btn,button[type="submit"],a.phone,.footer-cta .phone,.nav-call{background-color:#0f766e!important;color:#ffffff!important;border-color:#0f766e!important;}
-.footer-cta{background:#0f766e!important;color:#ffffff!important;}
+.btn,button[type="submit"],a.phone,.footer-cta .phone,.nav-call{background-color:#c29a2e!important;color:#1d1503!important;border-color:#c29a2e!important;}
+.footer-cta{background:#17181a!important;color:#f4f2ec!important;}
 .footer-cta a,.footer-cta .phone{color:#ffffff!important;}
 a:focus-visible,button:focus-visible,input:focus-visible,select:focus-visible,textarea:focus-visible{outline:3px solid #2563eb!important;outline-offset:2px;}
 .radio label,label:has(input[type="radio"]),label:has(input[type="checkbox"]){display:flex!important;align-items:center!important;gap:10px!important;min-height:32px!important;padding:6px 0!important;}
 input[type="radio"],input[type="checkbox"]{width:24px!important;height:24px!important;min-width:24px!important;}
 img{height:auto;}
 img.legacy-logo{width:100%!important;height:auto!important;max-width:520px!important;object-fit:cover!important;display:block!important;}
-</style></head><body><h1>Not found</h1></body></html>
+</style></head><body><main class="section"><div class="wrap prose"><h1>Page not found</h1><p>The page you requested is not available. Return to the <a href="/">homepage</a> or use the <a href="/contact">quote request page</a>. Roof question right now? Call <a href="tel:+13213406074">(321) 340-6074</a>.</p></div></main><script>
+(function(){
+  function setup(){
+    document.querySelectorAll('.top .nav').forEach(function(nav){
+      var btn = nav.querySelector('.nav-toggle');
+      if(!btn) return;
+      btn.addEventListener('click', function(){
+        var open = nav.classList.toggle('nav-open');
+        btn.setAttribute('aria-expanded', open ? 'true' : 'false');
+      });
+    });
+  }
+  if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', setup);
+  else setup();
+})();
+</script></body></html>

@@ -6,3 +6,10 @@
 /.wrangler/* /404.html 404
 /command/* /404.html 404
 /command /404.html 404
+
+# Retired pages (SOP: no pre-call homework pages) -> quote request
+# NOTE: this repo deploys with an advanced-mode _worker.js, which makes Cloudflare Pages
+# ignore _redirects. The same rules are implemented in _worker.js; this file is kept in
+# sync as documentation and as a fallback if the worker is ever removed.
+/homeowner-checklist /contact 301
+/homeowner-checklist.html /contact 301

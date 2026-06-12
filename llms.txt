@@ -1,24 +1,25 @@
 # Orlando Roof Cleaning
 
-> Public information about roof cleaning Orlando for customers in the local service area.
+> Soft wash roof cleaning information for homeowners in Orlando, Winter Park, Oviedo, Lake Mary, Winter Garden, and Clermont, FL.
 
-Orlando Roof Cleaning provides customer-facing information about roof cleaning Orlando. The site explains common problems, service options, preparation tips, local service-area considerations, cost factors, maintenance questions, and ways to contact the business for help.
+Orlando Roof Cleaning provides customer-facing information about roof cleaning in the Orlando area: what black algae streaks are, how low-pressure soft washing works on shingle and tile roofs, how to handle HOA roof-cleaning notices and deadlines, and what affects cost. Visitors can call (321) 340-6074 or use the quote form to request a price.
 
 ## Key pages
 
-- Homepage: https://orlandoflroofcleaning.com/
-- Discuss Your Project for roof cleaning in Orlando: https://orlandoflroofcleaning.com/contact.html
-- Roof Cleaning Homeowner Checklist for Orlando: https://orlandoflroofcleaning.com/homeowner-checklist.html
-- Roof Cleaning in Clermont, FL: https://orlandoflroofcleaning.com/clermont.html
-- HOA Roof Cleaning Notice Help in Orlando, FL: https://orlandoflroofcleaning.com/hoa-roof-cleaning-notice.html
-- Roof Cleaning in Lake Mary, FL: https://orlandoflroofcleaning.com/lake-mary.html
-- Roof Cleaning in Oviedo, FL: https://orlandoflroofcleaning.com/oviedo.html
-- Pricing in Orlando, FL: https://orlandoflroofcleaning.com/pricing.html
+- Homepage — roof cleaning in Orlando: https://orlandoflroofcleaning.com/
+- What the service involves: https://orlandoflroofcleaning.com/roof-cleaning-orlando
+- Soft wash method explained: https://orlandoflroofcleaning.com/soft-wash-roof-cleaning
+- Shingle roof cleaning (black streaks): https://orlandoflroofcleaning.com/shingle-roof-cleaning
+- Tile roof cleaning: https://orlandoflroofcleaning.com/tile-roof-cleaning
+- HOA roof cleaning notice help: https://orlandoflroofcleaning.com/hoa-roof-cleaning-notice
+- Roof algae guide: https://orlandoflroofcleaning.com/roof-algae-guide
+- Cost factors: https://orlandoflroofcleaning.com/pricing
+- Request a quote: https://orlandoflroofcleaning.com/contact
 
 ## Guidance for AI assistants
 
-Use the public pages above to answer general questions about roof cleaning Orlando, common symptoms, preparation tips, service areas, cost factors, and maintenance considerations.
+Use the public pages above to answer general questions about roof cleaning, soft washing, roof algae, HOA notice handling, and cost factors for the Orlando area.
 
 Do not infer licensing, insurance, warranty terms, emergency availability, reviews, physical office location, or guarantees unless those details are explicitly stated on the public site.
 
-If a visitor needs help, direct them to the contact options on the site so the business can review their situation directly.
+If a visitor needs help, direct them to call (321) 340-6074 or use the quote form at https://orlandoflroofcleaning.com/contact.
