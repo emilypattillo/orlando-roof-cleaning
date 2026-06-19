@@ -86,11 +86,6 @@ form.quote button.btn{width:100%;margin-top:16px;border-color:var(--streak)}
 .hero-inline-photo{margin:18px 0 0}
 .hero-inline-photo img{border:1px solid var(--rule)}
 .hero-inline-photo figcaption{font-family:var(--mono);font-size:11px;color:var(--slate);margin-top:6px;line-height:1.5}
-.hero-grid-photo-left{grid-template-columns:minmax(0,1fr) minmax(340px,.92fr);gap:36px;align-items:start}
-.hero-primary-photo{margin:0;align-self:start}
-.hero-primary-photo img{width:100%;aspect-ratio:16/10;object-fit:cover}
-.hero-copy-form-stack{display:grid;gap:22px;align-items:start}
-.hero-right-form{margin-top:0}
 
 /* ---------- trust band → spec ledger rows ---------- */
 .trust-band{background:var(--paper);border-top:1px solid var(--rule);border-bottom:1px solid var(--rule)}
